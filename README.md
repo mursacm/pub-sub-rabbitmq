@@ -22,3 +22,5 @@ open a terminal and locate the Publisher Folder
 
 - this will start the Publisher and Transform (our case it's just an uppercase) and send each message from args
 you can now see in the Subscriber's terminal all received messages
+
+- you can check http://localhost:15672/#/queues RabbitMQ management client for queues and messages
